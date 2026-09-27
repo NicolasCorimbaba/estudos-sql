@@ -30,7 +30,6 @@ Repositório criado para armazenar os exercícios e atividades realizados durant
 ## Ferramentas
 
 - PostgreSQL
-- pgAdmin
 - VS Code
 - Git e GitHub
 
